@@ -116,15 +116,15 @@ import {
   
   const experiences = [
     {
-      title: "React.js Developer",
-      company_name: "Starbucks",
+      title: "Frontend Developer",
+      company_name: "SwahiliBox",
       icon: starbucks,
       iconBg: "#383E56",
-      date: "March 2020 - April 2021",
+      date: "Feb 2017 - Nov 2020",
       points: [
-        "Developing and maintaining web applications using React.js and other related technologies.",
-        "Collaborating with cross-functional teams including designers, product managers, and other developers to create high-quality products.",
-        "Implementing responsive design and ensuring cross-browser compatibility.",
+        "Managed website development projects from initial design through completion, optimizing all cross-browser and multi-platform compatibility.",
+        "Developed and integrated custom themes into WordPress.",
+        "Developed frontend components with JavaScript, React.js and its vast libraries",
         "Participating in code reviews and providing constructive feedback to other developers.",
       ],
     },
