@@ -118,7 +118,7 @@ import {
     {
       title: "Frontend Developer",
       company_name: "SwahiliBox",
-      icon: starbucks,
+      icon: swahilibox,
       iconBg: "#383E56",
       date: "Feb 2017 - Nov 2020",
       points: [
