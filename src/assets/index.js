@@ -54,7 +54,7 @@ export {
   threejs,
   meta,
   shopify,
-  starbucks,
+  swahilibox,
   tesla,
   carrent,
   jobit,
