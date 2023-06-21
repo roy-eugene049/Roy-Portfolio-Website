@@ -16,7 +16,7 @@ import {
     figma,
     docker,
     meta,
-    starbucks,
+    swahilibox,
     tesla,
     shopify,
     carrent,
