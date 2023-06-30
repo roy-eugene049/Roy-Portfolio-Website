@@ -21,10 +21,10 @@ import tailwind from "./tech/tailwind.png";
 import typescript from "./tech/typescript.png";
 import threejs from "./tech/threejs.svg";
 
-import meta from "./company/meta.png";
-import shopify from "./company/shopify.png";
+import freelance from "./company/freelance.png";
+import dexxmedialabs from "./company/dexxmedialabs.png";
 import swahilibox from "./company/swahilibox.png";
-import tesla from "./company/tesla.png";
+import twiicetech from "./company/twiicetech.png";
 
 import carrent from "./carrent.png";
 import jobit from "./jobit.png";
@@ -52,10 +52,10 @@ export {
   tailwind,
   typescript,
   threejs,
-  meta,
-  shopify,
+  freelance,
+  dexxmedialabs,
   swahilibox,
-  tesla,
+  twiicetech,
   carrent,
   jobit,
   tripguide,
