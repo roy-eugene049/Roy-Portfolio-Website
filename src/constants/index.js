@@ -174,7 +174,7 @@ import {
     {
       testimonial:
         "I thought it was impossible to make a website as beautiful as our product, but Roy proved me wrong.",
-      name: "Sara Lee",
+      name: "Kira Kiranova",
       designation: "CFO",
       company: "Acme Co",
       image: "https://randomuser.me/api/portraits/women/4.jpg",
@@ -182,7 +182,7 @@ import {
     {
       testimonial:
         "I've never met a web developer who truly cares about their clients' success like Roy does.",
-      name: "Chris Brown",
+      name: "Rio Ryo",
       designation: "COO",
       company: "DEF Corp",
       image: "https://randomuser.me/api/portraits/men/5.jpg",
@@ -199,7 +199,7 @@ import {
   
   const projects = [
     {
-      name: "Car Rent",
+      name: "Carvana",
       description:
         "Web-based platform that allows users to search, book, and manage car rentals from various providers, providing a convenient and efficient solution for transportation needs.",
       tags: [
@@ -217,7 +217,7 @@ import {
         },
       ],
       image: carrent,
-      source_code_link: "https://github.com/",
+      source_code_link: "https://github.com/roy-eugene049/carvana-app",
     },
     {
       name: "Job IT",
